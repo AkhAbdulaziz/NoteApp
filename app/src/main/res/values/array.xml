@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="rightColors">
+      <!--  <item>@color/black</item>
+        <item>@color/secondColor</item>-->
+        <item>@color/deleteColor</item>
+    </integer-array>
+
+    <integer-array name="leftColors">
+      <!--  <item>@color/white</item>
+        <item>@color/purple_700</item>-->
+        <item>@color/pinColor</item>
+    </integer-array>
+
+    <integer-array name="rightDrawables">
+        <!--<item>@mipmap/ic_reload</item>
+        <item>@mipmap/ic_settings</item>-->
+        <item>@drawable/ic_delete</item>
+    </integer-array>
+
+    <integer-array name="leftDrawables">
+        <item>@drawable/ic_pin_color_left</item>
+    </integer-array>
+
+    <string-array name="rightTexts">
+        <item>@string/trash</item>
+    </string-array>
+
+</resources>

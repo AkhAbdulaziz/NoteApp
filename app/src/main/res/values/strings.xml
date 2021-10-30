@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Notes</string>
+
+
+    <string name="reload">Reload</string>
+    <string name="settings">Settings</string>
+    <string name="trash">Removed</string>
+</resources>

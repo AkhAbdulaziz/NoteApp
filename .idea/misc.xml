@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp/NoteApp_Lesson/app/src/main/res/drawable/bg_bottom_appbar.xml" value="0.20833333333333334" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp/NoteApp_Lesson/app/src/main/res/drawable/bottom_navigation_selector.xml" value="0.20833333333333334" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp/NoteApp_Lesson/app/src/main/res/layout/screen_main.xml" value="0.1921875" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp/NoteApp_Lesson/app/src/main/res/menu/menu.xml" value="0.1921875" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp/app/src/main/res/drawable/bg_search.xml" value="0.20277777777777778" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp/app/src/main/res/drawable/ic_back.xml" value="0.20277777777777778" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp/app/src/main/res/drawable/ic_bold_format_colored.xml" value="0.20277777777777778" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp/app/src/main/res/drawable/ic_color_picker.xml" value="0.20512820512820512" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp/app/src/main/res/drawable/ic_color_picker_colored.xml" value="0.20277777777777778" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp/app/src/main/res/drawable/ic_delete.xml" value="0.2" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp/app/src/main/res/drawable/ic_format_size_colored.xml" value="0.20833333333333334" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp/app/src/main/res/drawable/ic_italic_format_colored.xml" value="0.19427083333333334" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp/app/src/main/res/drawable/ic_pin.xml" value="0.2" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp/app/src/main/res/drawable/ic_pin_color_left.xml" value="0.10740740740740741" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp/app/src/main/res/drawable/ic_pin_colored.xml" value="0.19427083333333334" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp/app/src/main/res/drawable/ic_pin_for_left.xml" value="0.2" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp/app/src/main/res/drawable/ic_pin_left.xml" value="0.2" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp/app/src/main/res/drawable/ic_plus.xml" value="0.2" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp/app/src/main/res/drawable/ic_save.xml" value="0.20277777777777778" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp/app/src/main/res/drawable/ic_search.xml" value="0.20512820512820512" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp/app/src/main/res/drawable/ic_text_bacground.xml" value="0.20512820512820512" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp/app/src/main/res/drawable/ic_text_bacground_colored.xml" value="0.19427083333333334" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp/app/src/main/res/drawable/ic_underline_format_colored.xml" value="0.19427083333333334" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp/app/src/main/res/layout/item_note.xml" value="0.18" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp/app/src/main/res/layout/item_note2.xml" value="0.1921875" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp/app/src/main/res/layout/item_note3.xml" value="0.5" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp/app/src/main/res/layout/item_note_base.xml" value="0.2" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp/app/src/main/res/layout/screen_add_note.xml" value="0.2" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp/app/src/main/res/layout/screen_info.xml" value="0.1921875" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp/app/src/main/res/layout/screen_main.xml" value="0.22" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp/app/src/main/res/layout/screen_splash.xml" value="0.1921875" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp/app/src/main/res/menu/menu.xml" value="0.1921875" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp_Lesson/app/src/main/res/drawable/bg_search.xml" value="0.20833333333333334" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp_Lesson/app/src/main/res/drawable/ic_back.xml" value="0.20833333333333334" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp_Lesson/app/src/main/res/drawable/ic_bold_format_colored.xml" value="0.19427083333333334" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp_Lesson/app/src/main/res/drawable/ic_color_picker.xml" value="0.20833333333333334" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp_Lesson/app/src/main/res/drawable/ic_color_picker_colored.xml" value="0.20833333333333334" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp_Lesson/app/src/main/res/drawable/ic_format_size_colored.xml" value="0.20833333333333334" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp_Lesson/app/src/main/res/drawable/ic_italic_format_colored.xml" value="0.20833333333333334" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp_Lesson/app/src/main/res/drawable/ic_pin.xml" value="0.20833333333333334" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp_Lesson/app/src/main/res/drawable/ic_pin_colored.xml" value="0.20833333333333334" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp_Lesson/app/src/main/res/drawable/ic_save.xml" value="0.20833333333333334" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp_Lesson/app/src/main/res/drawable/ic_save2.xml" value="0.20833333333333334" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp_Lesson/app/src/main/res/drawable/ic_text_bacground_colored.xml" value="0.19427083333333334" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp_Lesson/app/src/main/res/drawable/ic_underline_format_colored.xml" value="0.19427083333333334" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp_Lesson/app/src/main/res/layout/activity_main.xml" value="0.1921875" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp_Lesson/app/src/main/res/layout/item_note.xml" value="0.25" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp_Lesson/app/src/main/res/layout/page_note.xml" value="0.2" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp_Lesson/app/src/main/res/layout/screen_add_note.xml" value="0.18" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp_Lesson/app/src/main/res/layout/screen_info.xml" value="0.1921875" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp_Lesson/app/src/main/res/layout/screen_main.xml" value="0.2" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp_Lesson/app/src/main/res/layout/screen_splash.xml" value="0.1408514492753623" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp3/NoteApp_Lesson/app/src/main/res/menu/menu.xml" value="0.178125" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp4_PlayMarketVersion/NoteApp/app/src/main/res/drawable/bg_search.xml" value="0.20512820512820512" />
+        <entry key="..\:/GITA/BOOTCAMP/Android/Applications/Lesson28_NoteApp4_PlayMarketVersion/NoteApp/app/src/main/res/layout/screen_main.xml" value="0.22" />
+        <entry key="..\:/MyApps/6. Note/app/NoteApp/app/src/main/res/layout/screen_main.xml" value="0.1921875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

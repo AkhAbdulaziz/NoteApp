@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="8dp"
+    android:layout_marginRight="8dp"
+    android:layout_marginBottom="8dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.alexandrius.accordionswipelayout.library.SwipeLayout
+        app:layout_constraintTop_toTopOf="parent"
+        android:id="@+id/swipe_layout"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        app:iconSize="36dp"
+        app:foregroundLayout="@layout/item_note_base"
+        app:leftItemColors="@array/leftColors"
+        app:leftItemIcons="@array/leftDrawables"
+        app:rightItemColors="@array/rightColors"
+        app:rightItemIcons="@array/rightDrawables"
+        app:swipeItemWidth="100dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
